@@ -1,6 +1,6 @@
 # Hey there, I'm Simone! 👋
 
-**MSc Robotics student @ TU Delft** | BSc Automation Engineering @ University of Bologna (110/110 cum laude)
+**MSc Robotics student @ TU Delft** | BSc Automation Engineering @ University of Bologna 
 
 I'm passionate about making robots learn, adapt, and collaborate — from reinforcement learning and imitation learning to motion planning and control. I love bridging the gap between simulation and the real world.
 
