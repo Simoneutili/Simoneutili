@@ -20,7 +20,7 @@ I'm passionate about making robots learn, adapt, and collaborate — from reinfo
 |---------|-------------|-------|
 | [**IsaacLabDigitalTwin**](https://github.com/Simoneutili/IsaacLabTiagoExtension) | Real2Sim Digital Twin of TIAGo arm — RL-based adaptive parameter estimation to align sim & real joint dynamics | Isaac Lab · ROS · Gazebo · Python |
 | [**HierarchicalMotionPlanning**](https://github.com/Simoneutili/PlanningandDecisionMakingProject) | Barista mobile manipulator — hierarchical motion planning (RRT, PRM, RRT*, MPC) for pick-and-place in simulation | Python · PyBullet |
-| [**OpenHumanoid**](https://github.com/Simoneutili/OpenHumanoid) | Locomotion control of the Unitree G1 humanoid robot (GROOT-WholeBodyControl) through via real time openAI models and OpenClaw orchestrator for multimodal inputs  | Python · OpenClaw · Mujoco |
+| [**OpenHumanoid**](https://github.com/Simoneutili/OpenHumanoid) | Locomotion control of the Unitree G1 humanoid robot (GROOT-WholeBodyControl) through via real time OpenAI models and OpenClaw orchestrator for multimodal inputs  | Python · OpenClaw · Mujoco |
 | [**WashingMachinePLC**](https://github.com/Simoneutili/WashingMachinePLC) | Logic control system for a washing machine operating cycle | PLC |
 
 ### 🛠️ Tech Stack
