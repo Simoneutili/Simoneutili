@@ -9,10 +9,9 @@ I'm passionate about making robots learn, adapt, and collaborate — from reinfo
 ---
 
 ### 🔭 What I'm working on
-
-- **MSc Robotics** at TU Delft — diving into machine learning for robotics, perception, motion planning, and human-robot interaction
-- **AI for Industry Challenge** with Intrinsic & Open Robotics — dexterous cable handling and electronics assembly using AI-driven manipulation
-- **Collaborative Robotics Research** — co-authoring a white paper on cobot adoption in Emilia-Romagna's manufacturing sector (Clust-ER Mech)
+- **MSc Robotics at TU Delft** focusing on machine learning for robotics, perception, motion planning, and robot learning  
+- **Seeking an MSc thesis project in industry** focused on robotics, embodied AI, and robot learning  
+- **Robotics Engineer at Motion1, Brussels** working at a humanoid robotics startup on the full-stack **Agibot G2 training pipeline**, including real-world data collection, digital twins and real-to-sim, simulation, policy training, and deployment on hardware
 
 ### 🚀 Featured Projects
 
