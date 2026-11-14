@@ -6,7 +6,7 @@ I'm passionate about making robots learn, adapt, and collaborate — from reinfo
 
 📍 Delft, The Netherlands · 🇮🇹 Originally from Ravenna, Italy
 
-📫 [**Full Portfolio **](https://simoneutili.github.io/index.html)
+📫 [Complete Portfolio](https://simoneutili.github.io/index.html)
 ---
 
 ### 🔭 What I'm working on
